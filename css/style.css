@@ -1,0 +1,37 @@
+body {
+    height: 100vh;
+}
+
+.en-tete {
+    height: 8vh;
+    color: turquoise;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.corps {
+    height: 92vh;
+}
+
+.en-tete h1 {
+    font-size: 4em;
+}
+
+.en-tete h3 {
+    font-size: 1em;
+    color: darkcyan;
+}
+
+.gauche h2 {
+    text-transform: uppercase;
+    color: turquoise;
+}
+
+.droite h2 {
+    text-transform: uppercase;
+    color: turquoise;
+}
+
+table td {
+    width: 150px;
+}
